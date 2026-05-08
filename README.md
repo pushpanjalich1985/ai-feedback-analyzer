@@ -35,9 +35,7 @@ Google Forms → Make.com → Gemini AI → Notion
 * Centralized knowledge base
 * No-code automation
 
-## Demo
 
-Paste your Loom demo link here
 
 ## Blueprint
 
